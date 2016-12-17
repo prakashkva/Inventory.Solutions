@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMSWebAPI", "RMSWebAPI\RMSWebAPI.csproj", "{D32FF2E5-A279-4831-B3F8-61412B90E107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMSWebAPI_Client", "RMSWebAPI_Client\RMSWebAPI_Client.csproj", "{30C0DA87-685C-4C43-9723-F2EA81DB22F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32FF2E5-A279-4831-B3F8-61412B90E107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32FF2E5-A279-4831-B3F8-61412B90E107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32FF2E5-A279-4831-B3F8-61412B90E107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32FF2E5-A279-4831-B3F8-61412B90E107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C0DA87-685C-4C43-9723-F2EA81DB22F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C0DA87-685C-4C43-9723-F2EA81DB22F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C0DA87-685C-4C43-9723-F2EA81DB22F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C0DA87-685C-4C43-9723-F2EA81DB22F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
